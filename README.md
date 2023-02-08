@@ -62,7 +62,12 @@ You need to install flask seperatly with a latest version to run the flask app i
 ```sh
 python ./app.py
 ```
-
+## 🎯 Link for video hosting Flask Application
+ ```sh
+https://www.linkedin.com/posts/gopalakrishnan-subramani-a0974582_cars-pytorch-flask-activity-7029108228240121856-yIsP?utm_source=share&utm_medium=member_desktop
+```
+ 
+ 
 ## 📋 Further Changes to be Done
 - [ ] Containerize an application
 - [ ] Deploying the Web Application on Cloud.
