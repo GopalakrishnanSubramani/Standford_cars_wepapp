@@ -27,7 +27,7 @@ To build a model and deploy it to the web to classify the car by manufacturer, m
 ## 🎯 Sample Images in a Single batch
 
 <p align="center">
-  <img width="1000" height="800" src="imgs/single_batch.png">
+  <img width="800" height="800" src="imgs/single_batch.png">
 </p>
 
 ## 🎯 Evaluation Metrics
@@ -55,7 +55,7 @@ You need to install flask seperatly with a latest version to run the flask app i
 ## 🎯 Host the web app use Flask your Application
 
 <p align="center">
-  <img width="600" height="400" src="imgs/flask.png">
+  <img width="800" height="400" src="imgs/flask.png">
 </p>
 
 4. Run the flask app: 
