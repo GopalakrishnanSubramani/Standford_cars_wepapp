@@ -24,6 +24,12 @@ To build a model and deploy it to the web to classify the car by manufacturer, m
 * [scikit-learn](https://scikit-learn.org)
 * [tqdm](https://github.com/tqdm/tqdm)
 
+## 🎯 Sample Images in a Single batch
+
+<p align="center">
+  <img width="1000" height="800" src="imgs/single_batch.png">
+</p>
+
 ## 🎯 Evaluation Metrics
 
 ```sh
