@@ -38,7 +38,7 @@ To build a model and deploy it to the web to classify the car by manufacturer, m
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/DARK-art108/Bank-Note-Authentication-End-to-End-Project-1.git
+https://github.com/GopalakrishnanSubramani/Standford_cars_wepapp.git
 ```
 3. Install the Packages: 
 ```sh
